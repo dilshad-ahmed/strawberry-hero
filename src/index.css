@@ -4,7 +4,8 @@
 
 @layer utilities {
   .img-shadow {
-    filter: drop-shadow(40px 50px 25px #300000eb);
+    /* filter: drop-shadow(38px 15px 38px #000000bb); */
+    filter: drop-shadow(40px 50px 25px #2b1800d4);
   }
   .text-shadow {
     text-shadow: 2px 2px 2px #1128015b;
